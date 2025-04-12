@@ -1,11 +1,33 @@
-# Hi there 👋
--😄Hello, my name is Winzer Prince, I am currently working on building my fullstack development skills by creating and joining projects.🚀
--✨I love mathematics,coding,playing the guitar🎸, listening to music🎵,and hanging out with friends.
-## 💻Languages and frameworks I have started learning so far include;
-  -Html, css, and javascript 🌐  
-  -Node.js 🍀 and express 🚀  
-  -C 🔵  
-  -Java 🍵  
-  -Python 🐍  
+# Hi there! 👋
 
+I'm **Winzer Prince** – a passionate learner on a mission to master **fullstack development** by building and contributing to exciting projects! 🚀
+
+---
+
+## ✨ About Me
+- 😄 I'm deeply curious about **mathematics**, **coding**, and solving real-world problems with tech.
+- 🎸 I enjoy playing the **guitar**, vibing to great **music** 🎵, and chilling with friends.
+
+---
+
+## 💻 Technologies I'm Learning
+
+### Frontend:
+- ⚛️ **React**
+- 🌐 **Tailwind CSS** & **TypeScript**
+- 🟨 **JavaScript**
+
+### Backend:
+- 🍀 **Node.js** & 🚀 **Express**
+- 🐬 **MySQL**
+
+### Other Languages:
+- 🔵 **C**
+- 🍵 **Java**
+- 🐍 **Python**
+- 📲 **React Native**
+
+---
+
+Thanks for checking out my profile! Let’s build something awesome.
 
