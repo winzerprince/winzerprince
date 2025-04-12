@@ -20,6 +20,7 @@ I'm **Winzer Prince** – a passionate learner on a mission to master **fullstac
 ### Backend:
 - 🍀 **Node.js** & 🚀 **Express**
 - 🐬 **MySQL**
+- 🔥 **Girebase**
 
 ### Other Languages:
 - 🔵 **C**
