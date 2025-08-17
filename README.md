@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Winzer Prince
+# Winzer Prince
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast+%26+Rice+Connoisseur;Always+Learning+Something+New;Building+Cool+Stuff+Daily&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast;Ricing+in+Arch;Always+Learning+Something+New;Building+Cool+Stuff+Daily&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=winzerprince&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/winzerprince)
 [![GitHub followers](https://img.shields.io/github/followers/winzerprince?label=Followers&style=for-the-badge&logo=github)](https://github.com/winzerprince?tab=followers)
@@ -55,6 +55,7 @@ const winzer = {
 
 ### 📱 Mobile & Cross-Platform
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🔧 Currently Expanding
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -62,11 +63,17 @@ const winzer = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🐧 Linux & Tools
+### 🐧 Linux Distros I use
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-7CB342?style=for-the-badge&logo=hyprland&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+### 🛠️ Favorite Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 </div>
 
@@ -98,12 +105,12 @@ graph LR
     A[🌱 Beginner] --> B[⚛️ React Mastery]
     B --> C[🚀 Node.js & Express]
     C --> D[🔥 Current: Java & Python]
-    D --> E[🎯 Future: Advanced Backend]
-    E --> F[🏆 Fullstack Expert]
+    D --> E[🎯 Future: Advanced Backend with Security and ML]
+    E --> F[🏆 Fullstack Dev]
     
     style A fill:#ff6b6b
     style B fill:#4ecdc4
-    style C fill:#45b7d1
+    style C fill:#8034d1
     style D fill:#f9ca24
     style E fill:#f0932b
     style F fill:#eb4d4b
