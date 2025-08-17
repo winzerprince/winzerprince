@@ -1,34 +1,192 @@
-# Hi there! 👋
+<div align="center">
 
-I'm **Winzer Prince** – a passionate learner on a mission to master **fullstack development** by building and contributing to exciting projects! 🚀
+# 👨‍💻 Winzer Prince
 
----
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast+%26+Rice+Connoisseur;Always+Learning+Something+New;Building+Cool+Stuff+Daily&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
-## ✨ About Me
-- 😄 I'm deeply curious about **mathematics**, **coding**, and solving real-world problems with tech.
-- 🎸 I enjoy playing the **guitar**, vibing to great **music** 🎵, and chilling with friends.
+[![Profile Views](https://komarev.com/ghpvc/?username=winzerprince&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/winzerprince)
+[![GitHub followers](https://img.shields.io/github/followers/winzerprince?label=Followers&style=for-the-badge&logo=github)](https://github.com/winzerprince?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/winzerprince?label=Stars&style=for-the-badge&logo=github)](https://github.com/winzerprince?tab=repositories)
 
----
-
-## 💻 Technologies I'm Learning
-
-### Frontend:
-- ⚛️ **React**
-- 🌐 **Tailwind CSS** & **TypeScript**
-- 🟨 **JavaScript**
-
-### Backend:
-- 🍀 **Node.js** & 🚀 **Express**
-- 🐬 **MySQL**
-- 🔥 **Firebase**
-
-### Other Languages:
-- 🔵 **C**
-- 🍵 **Java**
-- 🐍 **Python**
-- 📲 **React Native**
+</div>
 
 ---
 
-Thanks for checking out my profile! Let’s build something awesome.
+## 🚀 About Me
 
+```typescript
+const winzer = {
+    name: "Winzer Prince",
+    role: "Aspiring Fullstack Developer",
+    location: "Learning Universe 🌌",
+    passions: ["Coding", "Mathematics", "Linux Ricing", "Guitar 🎸"],
+    currentFocus: "Mastering fullstack development through real-world projects",
+    philosophy: "Build, Break, Learn, Repeat 🔄",
+    currentlyLearning: ["Java", "Python", "Bash Scripting"],
+    recentMasteries: ["React", "Node.js", "Express", "Linux Workflows"]
+};
+```
+
+<div align="center">
+
+### 🎯 *"Turning ideas into reality, one commit at a time"*
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Mastery
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### 📱 Mobile & Cross-Platform
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🔧 Currently Expanding
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🐧 Linux & Tools
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-7CB342?style=for-the-badge&logo=hyprland&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=winzerprince&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winzerprince&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=winzerprince&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎯 Learning Journey
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🌱 Beginner] --> B[⚛️ React Mastery]
+    B --> C[🚀 Node.js & Express]
+    C --> D[🔥 Current: Java & Python]
+    D --> E[🎯 Future: Advanced Backend]
+    E --> F[🏆 Fullstack Expert]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#f9ca24
+    style E fill:#f0932b
+    style F fill:#eb4d4b
+```
+
+</div>
+
+### 🚀 Current Learning Goals
+
+- **Java** - Building robust enterprise applications
+- **Python** - Data manipulation and automation scripts
+- **Bash Scripting** - Linux automation and system administration
+- **Advanced React Patterns** - State management and performance optimization
+- **System Design** - Scalable architecture principles
+
+---
+
+## 🎸 Beyond Code
+
+<div align="center">
+
+| 🎵 Music & Guitar | 🧮 Mathematics | 🐧 Linux Ricing | 👥 Community |
+|-------------------|----------------|------------------|---------------|
+| Strumming melodies | Solving equations | Crafting beautiful desktops | Building connections |
+| Finding rhythm in chaos | Logic and patterns | [My Dotfiles](https://github.com/winzerprince/dotfiles) | Learning together |
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Winzer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=winzerprince&theme=tokyo-night)](https://github.com/winzerprince)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=winzerprince&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=winzerprince&repo=dotfiles&theme=tokyonight)](https://github.com/winzerprince/dotfiles)
+
+*More awesome projects coming soon!* 🚀
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winzerprince)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winzerprince)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+### 💬 *"Always open to interesting conversations and collaboration opportunities!"*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting! Don't forget to ⭐ some repos if you find them interesting!
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
+![Powered by ☕](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
