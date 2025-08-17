@@ -191,8 +191,8 @@ graph LR
 
 ### 🌟 Thanks for visiting! Don't forget to ⭐ some repos if you find them interesting!
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-![Powered by ☕](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-green?style=for-the-badge)
+![Powered by ☕](https://img.shields.io/badge/Powered%20by-☕-white?style=for-the-badge)
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
