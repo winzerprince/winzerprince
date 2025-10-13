@@ -96,34 +96,12 @@ const winzer = {
 
 ---
 
-## 🎯 Learning Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🌱 Beginner] --> B[⚛️ React Mastery]
-    B --> C[🚀 Node.js & Express]
-    C --> D[🔥 Current: Java & Python]
-    D --> E[🎯 Future: Advanced Backend with Security and ML]
-    E --> F[🏆 Fullstack Dev]
-    
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#8034d1
-    style D fill:#f9ca24
-    style E fill:#f0932b
-    style F fill:#eb4d4b
-```
-
-</div>
 
 ### 🚀 Current Learning Goals
 
 - **Java** - Building robust enterprise applications
-- **Python** - Data manipulation and automation scripts
+- **Python** - Data manipulation and machine learning
 - **Bash Scripting** - Linux automation and system administration
-- **Advanced React Patterns** - State management and performance optimization
 - **System Design** - Scalable architecture principles
 
 ---
@@ -132,10 +110,10 @@ graph LR
 
 <div align="center">
 
-| 🎵 Music & Guitar | 🧮 Mathematics | 🐧 Linux Ricing | 👥 Community |
+| 🎵 Music & Guitar | 🧮 Mathematics | 🐧 Linux | 👥 Community |
 |-------------------|----------------|------------------|---------------|
-| Strumming melodies | Solving equations | Crafting beautiful desktops | Building connections |
-| Finding rhythm in chaos | Logic and patterns | [My Dotfiles](https://github.com/winzerprince/dotfiles) | Learning together |
+| Strumming melodies | Love 3Blue1Brown | Crafting and exploring the worl of linux | Building connections |
+| Understanding effects of music | Exploring machine learning | [My Dotfiles](https://github.com/winzerprince/dotfiles) | Always something new to learn |
 
 </div>
 
@@ -179,7 +157,7 @@ graph LR
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/winzerprince)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winzerprince)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitajprince200@gmail.com)
 
 ### 💬 *"Always open to interesting conversations and collaboration opportunities!"*
 
