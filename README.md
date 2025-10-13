@@ -144,7 +144,7 @@ const winzer = {
 <div align="center">
 
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=winzerprince&repo=dotfiles&theme=tokyonight)](https://github.com/winzerprince/dotfiles)
-[![WriteApp](https://github-readme-stats.vercel.app/api/pin/?username=winzerprince&repo=dotfiles&theme=tokyonight)](https://github.com/winzerprince/writeapp)
+[![WriteApp](https://github-readme-stats.vercel.app/api/pin/?username=winzerprince&repo=taskaban&theme=tokyonight)](https://github.com/winzerprince/writeapp)
 *More awesome projects coming soon!* 🚀
 
 </div>
