@@ -46,7 +46,7 @@
     <!-- $ directive -->
     <text x="50" y="26" font-size="16" fill="#565f89" opacity="0.8" text-anchor="start">
       <tspan fill="#7aa2f7" font-weight="bold">$</tspan>
-      <tspan fill="#7aa2f7"> directive</tspan>
+      <tspan fill="#7aa2f7"> tenet</tspan>
     </text>
 
     <!-- Output: Directive -->
