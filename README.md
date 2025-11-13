@@ -1,6 +1,20 @@
 <div align="center">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Winzer Prince
+
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast;Ricing+in+Arch;Always+Learning+Something+New;Building+Cool+Stuff+Daily&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
@@ -12,63 +26,94 @@
 
 ---
 
-## 🚀 About Me
+## Who am I?
 
 ```typescript
 const winzer = {
-    name: "Winzer Prince",
-    role: "Aspiring Fullstack Developer",
-    location: "Learning Universe 🌌",
-    passions: ["Coding", "Mathematics", "Linux Ricing", "Guitar 🎸"],
-    currentFocus: "Mastering fullstack development through real-world projects",
-    philosophy: "Build, Break, Learn, Repeat 🔄",
-    currentlyLearning: ["Java", "Python", "Bash Scripting"],
-    recentMasteries: ["React", "Node.js", "Express", "Linux Workflows"]
+  name: "Winzer Prince",
+  role: "Aspiring Fullstack Developer",
+  location: "Earth",
+  passions: ["Coding", "Mathematics", "Linux Ricing", "Guitar"],
+  currentFocus: "Mastering fullstack development through projects",
+  philosophy: "There's never been a moment in your life that is not now, now is all you'll ever have",
+  currentlyLearning: {
+    languages: ["Bash", "TypeScript", "Python", "Java", "Go", "C/C++", "PHP", "Rust"],
+    frameworks: ["React", "Express", "FastAPI", "Gin", "Spring", "Actix", "Laravel"],
+    devops: [
+      "Docker", 
+      "Kubernetes", 
+      "CI/CD", 
+      "GitHub Actions", 
+      "Terraform", 
+      "Ansible", 
+      "Prometheus", 
+      "Grafana", 
+      "AWS", 
+      "Linux Server Admin"
+    ]
+  }
 };
+
 ```
 
 <div align="center">
 
-### 🎯 *"Turning ideas into reality, one commit at a time"*
+###  *"Turning ideas into reality, one commit at a time"*
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend Mastery
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Backend & Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
-### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+### DevOps & Tools
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 📱 Mobile & Cross-Platform
+### Frameworks & Runtimes
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Mobile & Cross-Platform
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🔧 Currently Expanding
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### Currently Expanding
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 🐧 Linux Distros I use
+
+### Linux Distros I use
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-### 🛠️ Favorite Tools
+### Favorite Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -79,7 +124,7 @@ const winzer = {
 
 ---
 
-## 📊 GitHub Analytics
+## Analytics
 
 <div align="center">
 
@@ -97,7 +142,7 @@ const winzer = {
 ---
 
 
-### 🚀 Current Learning Goals
+### Current Learning Goals
 
 - **Java** - Building robust enterprise applications
 - **Python** - Data manipulation and machine learning
@@ -119,7 +164,7 @@ const winzer = {
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -129,7 +174,7 @@ const winzer = {
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -139,19 +184,19 @@ const winzer = {
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=winzerprince&repo=dotfiles&theme=tokyonight)](https://github.com/winzerprince/dotfiles)
 [![Taskaban](https://github-readme-stats.vercel.app/api/pin/?username=winzerprince&repo=taskaban&theme=tokyonight)](https://github.com/winzerprince/taskaban)
-*More awesome projects coming soon!* 🚀
+*More awesome projects coming soon!*
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -159,7 +204,7 @@ const winzer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winzerprince)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitajprince200@gmail.com)
 
-### 💬 *"Always open to interesting conversations and collaboration opportunities!"*
+### *"Always open to interesting conversations and collaboration opportunities!"*
 
 </div>
 
