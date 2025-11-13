@@ -7,15 +7,6 @@
 
 
 
-
-
-
-
-
-
-# Winzer Prince
-
-
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast;Ricing+in+Arch;Always+Learning+Something+New;Building+Cool+Stuff+Daily&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=winzerprince&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/winzerprince)
