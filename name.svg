@@ -1,0 +1,74 @@
+<svg width="700" height="180" xmlns="http://www.w3.org/2000/svg" 
+     style="background:#1a1b27; font-family:'Fira Code','Courier New',monospace; image-rendering:pixelated;">
+
+  <!-- Tokyo Night Palette -->
+  <defs>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16161e"/>
+      <stop offset="50%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#16161e"/>
+    </linearGradient>
+
+    <!-- Text Glow (Blue-Purple) -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#7aa2f7" flood-opacity="0.7"/>
+      <feComposite in2="blur" operator="in"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Pixelated Scanlines -->
+    <pattern id="scanlines" width="2" height="2" patternUnits="userSpaceOnUse">
+      <rect width="2" height="1" fill="#1a1b27"/>
+      <rect y="1" width="2" height="1" fill="#16161e" opacity="0.6"/>
+    </pattern>
+
+    <!-- Dither Noise (subtle grain) -->
+    <filter id="dither">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="4" seed="3" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.03 0"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="180" fill="url(#bg)" rx="8"/>
+  <rect width="700" height="180" fill="url(#scanlines)" rx="8" filter="url(#dither)"/>
+
+  <!-- Title: Winzer Prince -->
+  <text x="350" y="88" font-size="56" font-weight="600" fill="#c0caf5" 
+        text-anchor="middle" filter="url(#glow)" letter-spacing="2">
+    Winzer Prince
+    <!-- Glitch flicker -->
+    <animate attributeName="opacity" values="1;0.98;1;0.99;1" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitle with typing animation -->
+  <text x="350" y="118" font-size="18" fill="#565f89" text-anchor="middle">
+    <tspan fill="#7aa2f7">Fullstack Developer</tspan>
+    <tspan fill="#414868"> • </tspan>
+    <tspan fill="#bb9af7">Earth</tspan>
+
+    <!-- Typing Cursor -->
+    <tspan x="0" dy="0">
+      <animate attributeName="x" from="540" to="540" dur="0s"/>
+      <set attributeName="visibility" to="visible" begin="0s"/>
+      <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+      <tspan fill="#7aa2f7" font-weight="bold">|</tspan>
+    </tspan>
+  </text>
+
+  <!-- Terminal Prompt Line (optional minimal line) -->
+  <path d="M40,145 h620" stroke="#414868" stroke-width="1" opacity="0.6"/>
+  <text x="50" y="162" font-size="14" fill="#565f89" opacity="0.8">
+    $ 
+    <tspan fill="#7aa2f7">whoami</tspan>
+  </text>
+
+  <!-- Subtle CRT curve (optional) -->
+  <path d="M0,0 Q350,10 700,0 L700,180 Q350,170 0,180 Z" 
+        fill="rgba(26,27,39,0.03)" pointer-events="none"/>
+</svg>
