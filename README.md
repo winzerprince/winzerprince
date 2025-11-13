@@ -7,7 +7,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast;Ricing+in+Arch;Always+Learning+Something+New;Building+Cool+Stuff+Daily&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast;Ricing+Arch;Learning+Something+New;Building+Cool+Stuff&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=winzerprince&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/winzerprince)
 [![GitHub followers](https://img.shields.io/github/followers/winzerprince?label=Followers&style=for-the-badge&logo=github)](https://github.com/winzerprince?tab=followers)
@@ -142,16 +142,6 @@ const winzer = {
 
 ---
 
-## 🎸 Beyond Code
-
-<div align="center">
-
-| 🎵 Music & Guitar | 🧮 Mathematics | 🐧 Linux | 👥 Community |
-|-------------------|----------------|------------------|---------------|
-| Strumming melodies | Love 3Blue1Brown | Crafting and exploring the worl of linux | Building connections |
-| Understanding effects of music | Exploring machine learning | [My Dotfiles](https://github.com/winzerprince/dotfiles) | Always something new to learn |
-
-</div>
 
 ---
 
@@ -203,7 +193,7 @@ const winzer = {
 
 <div align="center">
 
-### 🌟 Thanks for visiting! Don't forget to ⭐ some repos if you find them interesting!
+### Thanks for visiting! Don't forget to ⭐ the projects you find interesting!
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-green?style=for-the-badge)
 ![Powered by ☕](https://img.shields.io/badge/Powered%20by-☕-white?style=for-the-badge)
