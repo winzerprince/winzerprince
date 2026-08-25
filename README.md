@@ -9,9 +9,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=You+merely+adopted+the+terminal+,+I+was+born+in+it;This+can't+be+good+!;I'm+Batman;I+can+do+this+all+day;That's+my+secret+cap+,+I'm+always+debugging;You+either+die+a+programmer+or+live+long+enough+to+see+yourself+become+project+manager;Ah+but+you+have+heard+of+me+🏴‍☠️;&font=Fira%20Code&center=true&width=1080&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
-[<img src="https://komarev.com/ghpvc/?username=winzerprince&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">](https://github.com/winzerprince)
-[<img src="https://img.shields.io/github/followers/winzerprince?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers">](https://github.com/winzerprince?tab=followers)
-[<img src="https://img.shields.io/github/stars/winzerprince?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars">](https://github.com/winzerprince?tab=repositories)
+[<img src="https://komarev.com/ghpvc/?username=winzerprince&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge">](https://github.com/winzerprince)
+[<img src="https://img.shields.io/github/followers/winzerprince?label=Followers&amp;style=for-the-badge&amp;logo=github">](https://github.com/winzerprince?tab=followers)
+[<img src="https://img.shields.io/github/stars/winzerprince?label=Stars&amp;style=for-the-badge&amp;logo=github">](https://github.com/winzerprince?tab=repositories)
 
 </div>
 
@@ -58,51 +58,51 @@ winzer = {
 <div align="center">
 
 ### Backend & Database
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=firebase&amp;logoColor=white">
 
 ### DevOps & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=github-actions&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&amp;logo=terraform&amp;logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazon-aws&amp;logoColor=white">
 
 ### Frameworks & Runtimes
-<img src="https://img.shields.io/badge/espressif-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white" alt="Espressif">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/espressif-%23E7352C.svg?style=for-the-badge&amp;logo=espressif&amp;logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white">
 
 ### Mobile & Cross-Platform
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=Kotlin&amp;logoColor=white">
 
 ### Stuff I'm focusing on now
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&amp;logo=rust&amp;logoColor=white">
 
 
 ### Linux Distros I've used (If you care to know 🙃)
-<img src="https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora" alt="Fedora">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-<img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white" alt="BlackArch">
+<img src="https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&amp;logo=Fedora">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white">
+<img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&amp;logo=arch-linux&amp;logoColor=white">
 
 ### Favorite Tools & Software
-[<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">](https://neovim.io)
-[<img src="https://img.shields.io/badge/GNS3-Network%20Simulation-1f6feb?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3">](https://www.gns3.com/)
-<img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
-<img src="https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox">
-<img src="https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white" alt="KDE Plasma">
+[<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&amp;logo=neovim&amp;logoColor=white">](https://neovim.io)
+[<img src="https://img.shields.io/badge/GNS3-Network%20Simulation-1f6feb?style=for-the-badge&amp;logo=gns3&amp;logoColor=white">](https://www.gns3.com/)
+<img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&amp;logo=obsidian&amp;logoColor=white">
+<img src="https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&amp;logo=Firefox-Browser&amp;logoColor=white">
+<img src="https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&amp;logo=kdeplasma&amp;logoColor=white">
 
 
 </div>
@@ -176,9 +176,9 @@ winzer = {
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/winzerprince)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/winzerprince)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:aitajprince200@gmail.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white">](https://github.com/winzerprince)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">](https://linkedin.com/in/winzerprince)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white">](mailto:aitajprince200@gmail.com)
 
 ### *I'm always open to opportunities to collaborate, learn and teach!*
 
