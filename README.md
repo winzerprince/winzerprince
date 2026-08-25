@@ -7,7 +7,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer+in+Training;Linux+Enthusiast;Ricing+Arch;Learning+Something+New;Building+Cool+Stuff&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=You+merely+adopted+the+terminal+,+I+was+born+in+it;This+can't+be+good+!;I'm+Batman;I+can+do+this+all+day;That's+my+secret+cap+,+I'm+always+debugging;You+either+die+a+programmer+or+live+long+enough+to+see+yourself+become+project+manager;Ah+but+you+have+heard+of+me+🏴‍☠️;&font=Fira%20Code&center=true&width=1080&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=winzerprince&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/winzerprince)
 [![GitHub followers](https://img.shields.io/github/followers/winzerprince?label=Followers&style=for-the-badge&logo=github)](https://github.com/winzerprince?tab=followers)
@@ -18,29 +18,28 @@
 ---
 
 ## Who am I?
+Hi, I'm Winzer Prince, I started programming cause I like bringing ideas to life.
 
 ```typescript
-const winzer = {
+winzer = {
   name: "Winzer Prince",
-  role: "Aspiring Fullstack Developer",
+  role: "Software Engineer",
   location: "Earth",
-  passions: ["Coding", "Mathematics", "Linux Ricing", "Guitar"],
-  currentFocus: "Mastering fullstack development through projects",
-  philosophy: "There's never been a moment in your life that is not now, now is all you'll ever have",
+  passions: [ "Maths", "Linux", "Music"],
+  currentFocus: ["Systems programming","Backend", "DevOps", "Systems Design"],
+  favourite_quote: "There's never been a moment in your life that is not now, now is all you'll ever have - Eckhart Tolle",
   currentlyLearning: {
-    languages: ["Bash", "TypeScript", "Python", "Java", "Go", "C/C++", "PHP", "Rust"],
-    frameworks: ["React", "Express", "FastAPI", "Gin", "Spring", "Actix", "Laravel"],
+    topics: ["Assembly", "Embedded Systems", "Python", "ML", "Go", "C/C++"],
+    frameworks: ["ESP-IDF","Next.js", "FastAPI", "Laravel"],
     devops: [
       "Docker", 
       "Kubernetes", 
-      "CI/CD", 
-      "GitHub Actions", 
       "Terraform", 
       "Ansible", 
       "Prometheus", 
-      "Grafana", 
+      "GCP", 
       "AWS", 
-      "Linux Server Admin"
+      "Linux engineering"
     ]
   }
 };
@@ -49,14 +48,13 @@ const winzer = {
 
 <div align="center">
 
-###  *"Turning ideas into reality, one commit at a time"*
+###  *"Exploring the depths of Systems one abstraction at a time"*
 
 </div>
 
 ---
 
-## Tech Arsenal
-
+## Skills and Stuff I'm Into
 <div align="center">
 
 ### Backend & Database
@@ -74,42 +72,38 @@ const winzer = {
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Frameworks & Runtimes
+  ![Espressif](https://img.shields.io/badge/espressif-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Mobile & Cross-Platform
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 
-### Currently Expanding
+### Stuff I'm focusing on now
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 
-### Linux Distros I use
+### Linux Distros I've used (If you care to know 🙃)
+![Fedora](https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-### Favorite Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+### Favorite Tools & Software
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
+[![GNS3](https://img.shields.io/badge/GNS3-Network%20Simulation-1f6feb?logo=gns3)](https://www.gns3.com/)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white)
+
 
 </div>
 
@@ -133,9 +127,10 @@ const winzer = {
 ---
 
 
-### Current Learning Goals
+### Stuff I'm doing right now
 
-- **Java** - Building robust enterprise applications
+- **Systems Programming and Embedded Systems** - Building code that interfaces between hardware and software
+- **Devography** - A documentation of my learning journey and insights from books, experiences and projects.
 - **Python** - Data manipulation and machine learning
 - **Bash Scripting** - Linux automation and system administration
 - **System Design** - Scalable architecture principles
@@ -169,9 +164,9 @@ const winzer = {
 
 <div align="center">
 
-[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=winzerprince&repo=dotfiles&theme=tokyonight)](https://github.com/winzerprince/dotfiles)
+[![Sentio](hhttps://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://huggingface.co/winzerprince/sentio-vit-emotion&ved=2ahUKEwiV5NXk8ruWAxVEhP0HHX7TNysQFnoECBkQAQ&usg=AOvVaw1VGgos24MglQ1RgrKS_wK9)](https://github.com/winzerprince/sentio)
 [![Taskaban](https://github-readme-stats.vercel.app/api/pin/?username=winzerprince&repo=taskaban&theme=tokyonight)](https://github.com/winzerprince/taskaban)
-*More awesome projects coming soon!*
+*Loading more projects ...*
 
 </div>
 
@@ -185,7 +180,7 @@ const winzer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winzerprince)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aitajprince200@gmail.com)
 
-### *"Always open to interesting conversations and collaboration opportunities!"*
+### *I'm always open to opportunities to collaborate, learn and teach!*
 
 </div>
 
@@ -193,10 +188,7 @@ const winzer = {
 
 <div align="center">
 
-### Thanks for visiting! Don't forget to ⭐ the projects you find interesting!
-
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-green?style=for-the-badge)
-![Powered by ☕](https://img.shields.io/badge/Powered%20by-☕-white?style=for-the-badge)
+### Good Day 👋!
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
