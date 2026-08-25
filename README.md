@@ -9,9 +9,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=You+merely+adopted+the+terminal+,+I+was+born+in+it;This+can't+be+good+!;I'm+Batman;I+can+do+this+all+day;That's+my+secret+cap+,+I'm+always+debugging;You+either+die+a+programmer+or+live+long+enough+to+see+yourself+become+project+manager;Ah+but+you+have+heard+of+me+🏴‍☠️;&font=Fira%20Code&center=true&width=1080&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 
-<a href="https://github.com/winzerprince"><img src="https://komarev.com/ghpvc/?username=winzerprince&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"></a>
-<a href="https://github.com/winzerprince?tab=followers"><img src="https://img.shields.io/github/followers/winzerprince?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"></a>
-<a href="https://github.com/winzerprince?tab=repositories"><img src="https://img.shields.io/github/stars/winzerprince?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars"></a>
+[<img src="https://komarev.com/ghpvc/?username=winzerprince&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">](https://github.com/winzerprince)
+[<img src="https://img.shields.io/github/followers/winzerprince?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers">](https://github.com/winzerprince?tab=followers)
+[<img src="https://img.shields.io/github/stars/winzerprince?label=Stars&style=for-the-badge&logo=github" alt="GitHub stars">](https://github.com/winzerprince?tab=repositories)
 
 </div>
 
@@ -98,8 +98,8 @@ winzer = {
 <img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=arch-linux&logoColor=white" alt="BlackArch">
 
 ### Favorite Tools & Software
-<a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"></a>
-<a href="https://www.gns3.com/"><img src="https://img.shields.io/badge/GNS3-Network%20Simulation-1f6feb?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3"></a>
+[<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">](https://neovim.io)
+[<img src="https://img.shields.io/badge/GNS3-Network%20Simulation-1f6feb?style=for-the-badge&logo=gns3&logoColor=white" alt="GNS3">](https://www.gns3.com/)
 <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
 <img src="https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox">
 <img src="https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white" alt="KDE Plasma">
@@ -176,9 +176,9 @@ winzer = {
 
 <div align="center">
 
-<a href="https://github.com/winzerprince"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://linkedin.com/in/winzerprince"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:aitajprince200@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/winzerprince)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/winzerprince)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:aitajprince200@gmail.com)
 
 ### *I'm always open to opportunities to collaborate, learn and teach!*
 
